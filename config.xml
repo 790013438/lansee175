@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<auto_ip_field>1</auto_ip_field>
+<ip_field>10.7.152</ip_field>
+<search_interval>2</search_interval>
+<res_interval>30</res_interval>
+<file_filter/>
+<mac_remark>
+	<remark mac=""/>
+</mac_remark>
